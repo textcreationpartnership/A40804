@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A voice out of Sion unto all the inhabitants of the earth with a few words of the dealings of God in love with England whose visitation in mercy draws to an end : also a warning unto all the inhabitants of Babylon that they may haste and flee out of her because her judgment is nigh ... / by Robert Falkner.</title>
+            <author>Falkner, Robert, d. 1675.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40804</idno>
+            <idno type="STC">Wing F328</idno>
+            <idno type="STC">ESTC R37770</idno>
+            <idno type="EEBO-CITATION">17015162</idno>
+            <idno type="OCLC">ocm 17015162</idno>
+            <idno type="VID">105787</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40804)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105787)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1615:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A voice out of Sion unto all the inhabitants of the earth with a few words of the dealings of God in love with England whose visitation in mercy draws to an end : also a warning unto all the inhabitants of Babylon that they may haste and flee out of her because her judgment is nigh ... / by Robert Falkner.</title>
+                  <author>Falkner, Robert, d. 1675.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: cropped and stained with slight loss of print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Apocalyptic literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105787:1" rendition="simple:additions"/>
+            <p>A Voice out of Sion, UNTO ALL THE INHABITANTS OF THE EARTH: WITH A few Words of the Dealings of GOD in Love with <hi>ENGLAND,</hi> whoſe Viſitation in Mercy draws near to an End.</p>
+            <p>ALSO, A WARNING unto all the Inhabitants of <hi>BABYLON,</hi> that they may haſte and flee out of her; becauſe her Judgment is nigh, yea, unto all that live in Wickedneſs, Sin and Uncleanneſs: <hi>For the Wicked muſt be turned into Hell, and all that forget God.</hi>
+            </p>
+            <p>By ROBERT FALKNER.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1663.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:105787:2"/>
+            <pb n="3" facs="tcp:105787:2"/>
+            <head>A VOICE out of <hi>ZION</hi> unto all the In<g ref="char:EOLhyphen"/>habitants of the Earth: With a few Words of the dealings of God in Love with <hi>ENGLAND,</hi> &amp;c.</head>
+            <p>HEar, <hi>O Earth,</hi> and give ear ye the <hi>Inhabitants</hi> there<g ref="char:EOLhyphen"/>of, for the Lord hath ſpoken, yea, the mighty God hath uttered his terrible Voice, ſaying, I will ariſe, I will ariſe and ſhake terribly the Earth, that the Pillars thereof ſtanding ſhall fall, and never more to be raiſed again; yea, the lofty and tall Cedars ſhall bend, and the ſturdy Oaks ſhall bow, and the Rocks ſhall melt before my Appear<g ref="char:EOLhyphen"/>ance, and the Mountains ſhall be removed, and the little Hills ſhall tremble and flee away from my Preſence; for, behold, I have taken to me my great Power, and I will reign in Righte<g ref="char:EOLhyphen"/>ouſneſs, and govern with Equity, and I will exalt my own Name, and eſtabliſh my Throne for ever; and I will raiſe up the Ta<g ref="char:EOLhyphen"/>bernacle of <hi>David,</hi> and exalt the Mount of mine own Houſe a<g ref="char:EOLhyphen"/>bove every Mountain; and the little Stone which I have cut out of the Mountain without hands, ſhall fall at the feet of all Images, and ſhall beat them to pieces, even as when a Potters veſſel is broken that there remains not a ſheard to take fire from the hearth: and therefore, fear, fear, quake and tremble, ye Potſheards of the Earth, that are taking counſel againſt the Lord and his Anointed: for wo unto you that are decreeing unrigh<g ref="char:EOLhyphen"/>teous Decrees. Oh ye Judges and Rulers of the Earth, who have judged for gifts and rewards which have blinded your eyes, and have ruled for your ſelves and not for God; Behold, the Lord hath a Controverſie with you, yea with the whole Earth, with whom he will plead in his not diſpleaſure. Oh <hi>England, Eng<g ref="char:EOLhyphen"/>land,</hi> I am in pain and anguiſh of ſpirit for thee above all Nati<g ref="char:EOLhyphen"/>ons of the Earth, becauſe thou haſt been a profeſſing Nation, a Nation profeſſing Chriſtianity in the higheſt meaſure, above all
+<pb n="4" facs="tcp:105787:3"/>the Nations of the Earth, and now to ſee deſolation coming up<g ref="char:EOLhyphen"/>on thee, it hath filled my heart with ſorrow, and this is the cry of my ſoul, O that my head were a well of waters, and mine eyes a fountain of tears, that I might ſtream and guſh forth as the great Ocean, that all within her borders might be waſhed from their corruption, and appear before the Lord in white gar<g ref="char:EOLhyphen"/>ments: but thus ſaith the Lord, Reſt thou in peace, for behold, I have opened my own Fountain, and I have called, I have cal<g ref="char:EOLhyphen"/>led, even unto thee O <hi>England,</hi> ſaying, <hi>Waſh thee, waſh thee, make thee clean, put away the evil of thy doings;</hi> for it is my delight to eſtabliſh thee as a Queen amongſt the Nations: but ſhe hardned her heart, and ſtifned her neck, though I called unto her by my Light and Spirit in her; but yet being unwilling that ſhe ſhould become a deſolation and a hiſſing to all Nations, I manifeſted my ſelf further, and raiſed up ſome in the midſt of her to bear a Teſtimony againſt her, and with theſe Inſtruments did I mighty Acts, and brought the Mighty from their ſeat, and corrected and chaſtiſed them in my Love, that all the Earth might know that I had a Love unto her; and unto thoſe Inſtruments I gave full power to ſubdue all Oppreſſion, Cruelty and Wrong; but Oh they abuſed my Power after I had done ſo wonderfully by them and for them; and it was my purpoſe to have eſtabliſhed them, if they would have feared my Name, and obeyed my Voice, and performed their Engagements which they made with me in their low eſtate, but they waxed fat, and kicked againſt me, and for<g ref="char:EOLhyphen"/>got all their Promiſes which they made unto me, and did not the thing which I required of them: then I raiſed up my Ser<g ref="char:EOLhyphen"/>vants to put them in mind of their Promiſes and Engagements which they made with me before the People, which were, <hi>To eaſe the Land of all Oppreſſion, Cruelty and Wrong;</hi> but they would not hear: Then I ſent my Servants again and again, ſaying, <hi>Repent of this your Tranſgreſſion, and do the thing which is juſt, or the Lord will bring you down, and deſtroy your Powers, and lay your Honour in the duſt.</hi> This was often told them in Love, that all the Earth might know that I am a God that delights in Mercy; for <hi>I ſent my Servants riſing up early, and ſitting up late, but they would have none of my Counſel, and my righteous Law they caſt be<g ref="char:EOLhyphen"/>hind their backs, and hardned their hearts, and ſtifned their necks,
+<pb n="5" facs="tcp:105787:3"/>and grow as bad or worſe than they that went before them: and thus they grieved my good Spirit, and wearied out my patience, until my long-ſuffering came to an end. And ſeeing they would not take coun<g ref="char:EOLhyphen"/>ſel of me, ſaith the Lord, I gave them up to the counſel of their own hearts luſts, by which they wrought their own deſtruction:</hi> There<g ref="char:EOLhyphen"/>fore let the Earth know that I am a God that delights in Mer<g ref="char:EOLhyphen"/>cy, and yet my Judgments are all juſt; and yet I am calling to thy Inhabitants, O <hi>England,</hi> ſaying, <hi>Do juſtly, love Mercy, and walk humbly with thy God:</hi> And I have ſent my Servants yet again and again, with their lives in their hands, crying in thy Streets, and teſtifying unto thee, that there is <hi>no Salvation, no Redemption, no Sanctification,</hi> nor <hi>no Juſtification but in Chriſt Jeſus;</hi> and in him is that Fountain in which thou mightſt have waſhed thy ſelf from all thy pollution; He is the Light of the World, and he hath enlightned every man that cometh into the world.</p>
+            <p>O ye Inhabitants of <hi>England,</hi> had you believed in this Light, then you would have known the Fountain which in thy own bowels would have guſhed forth as a River of Life to cleanſe thee from all thy corruption: But O <hi>England, England,</hi> thus faith the Lord, Thou haſt diſregarded my Love, thou haſt for<g ref="char:EOLhyphen"/>ſaken me the <hi>living Fountain, and haſt digged unto thy ſelf broken Ciſterns that will hold no water;</hi> and thou haſt run up and down to change thy wayes, and haſt not regarded the needful thing: Oh how ſhamefully haſt thou entreated thoſe my Meſſengers of this my Covenant of Light &amp; Life! how haſt thou ſtocked them and ſtoned them, whipped them and beaten them, ſpoiled their Goods, and caſt their Bodies into Priſon, and haſt threatned to take away their Lives, or rid them out of the Land! O Nation be it known unto thee, for thus ſaith the Lord God, Had it not been for my Childrens Prayers and Supplications to <hi>me,</hi> for <hi>thee O Land,</hi> I had made an utter deſolation of thee ere this day; but for their ſakes have I been pleaſed to ſpare thee, that I might exerciſe loving-kindneſs towards thee, and that my long-ſuffe<g ref="char:EOLhyphen"/>ring might lead thee to repentance; but Oh! how doſt thou gainſay my Love, though it flow towards thee as a mighty ſtream? and how doth all manner of Wickedneſs and Cruelty abound in thy Palaces! O when wilt thou begin to conſider with thy ſelf, and ſay, O thy wonderful Mercies towards me! Oh when will
+<pb n="6" facs="tcp:105787:4"/>it enter into thy heart to ſay, It is enough that I have been ſpared unto this day, I will return, I will return? Oh! then the evil which I intended to bring upon thee ſhall not come up<g ref="char:EOLhyphen"/>on thee; for I am a God exerciſing loving-kindneſs, and with me there is Mercy, that I may be feared: but O Nation, if thou goeſt on as thou haſt done, oppreſſing my Life within thee, and perſecuting my People amongſt you, then I cannot hold my Fury from falling upon you; For, O conſider, the Oppreſſion that is upon my Children, whom I have bought with the blood of my dear Son; for they are not their own, but mine, and therefore have I exerciſed their Patience, and moved them to pray for thee O Land, that thou mighteſt know that I am a God that de<g ref="char:EOLhyphen"/>light in Mercy; but thy ſin, O Nation, hath reached unto Hea<g ref="char:EOLhyphen"/>ven, and cryed for Vengeance againſt thee; and behold, the cry of my innocent Lambs hath moved me unto Jealouſie, and my bowels are full, even ready to burſt forth within me with a terrible fire; for I am weary, I am weary with bearing the op<g ref="char:EOLhyphen"/>preſſion of mine own Seed, which I have planted in the Nobili<g ref="char:EOLhyphen"/>ty of mine own Life, to be a holy Nation unto me, with whom my Covenant ſtands for ever: and this is the cauſe why my Controverſie is with you, even becauſe you have oppreſſed my own Life, by making bonds and limits to limit the holy One of <hi>Iſraels</hi> Oh what art thou a doing that art fighting againſt God, by ſeeking to deſtroy his Heritage! <hi>Canst thou ſtop the Sun from going its courſe, or the Lightning that it break not through the clouds? canst thou ſtop the Moon that it give not light to the night, or hinder that there ſhall not be day-time, nor night-time, nor tide in its ſeaſon?</hi> If this thou canſt do, yet I am greater than all, who created them all, and they are in my hand, and I can do with them as my pleaſure is: Therefore ye Inhabitants of the Earth, tremble before me, for my Controverſie is great with you, ſaith the Lord God, and my purpoſe is to deſtroy the workers of ini<g ref="char:EOLhyphen"/>quity from the face of the Earth; yea, I will diſanul the Cove<g ref="char:EOLhyphen"/>nant of the Earth, and break the Bonds of Hell, and take the old Serpent, called the <hi>Devil</hi> and <hi>Satan,</hi> and put him into the Lake of Fire, and ſeal him down that he go no more out of his place. And now, O Beaſt that haſt received thy Power from the Dra<g ref="char:EOLhyphen"/>gon, and haſt ruled in great Authority, and haſt killed the bo<g ref="char:EOLhyphen"/>dies
+<pb n="7" facs="tcp:105787:4"/>of my Saints, ſaith the Lord God, that could not receive thy marks in their foreheads or right-hands, nor the number of thy Names, nor worſhip thy Images: Oh Beaſt thou muſt be taken alive with the falſe Prophet and caſt alive into the Lake of everlaſting burning. And now O <hi>Babylon,</hi> thy deſtruction is near, for the Beaſt that hath long born thee is taken, and is in a chain ready to be caſt into the Lake; and now the hour of thy Judgment is come, and all the Vials of the Wrath of God are ready to be poured forth upon thee; for thou haſt bewitched the Nations with thy Sorceries, and hath made all the Kings of the Earth drunk with thy Cup of Fornications and Whoredoms, and thou haſt drunk the blood of my Saints and Martyrs of <hi>Jeſus,</hi> ſaith the Lord God Almighty; and though thou ſaidſt in thy hea<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> thou wert a Queen, and ſhouldſt ſee no ſorrow; but now behold, thy miſery is coming upon thee, and thy torment is near thee, and now thou muſt have double to drink of the Wrath of God, for all the Blood that thou haſt drunk of his Saints, and into a bed of torments muſt thou go, yea, into a lake of unquenchable fire, to be tormented night and day from the preſence of the Lamb.</p>
+            <p>Awake, awake, O ye Inhabitants of the Earth, and ſee to your ſtanding, whether you be in <hi>Zion,</hi> the City of the Lord, into which, <hi>no unclean thing can enter:</hi> Or, joyned to <hi>Babylon,</hi> the City of confuſion, who is drunk with the blood of the Saints. Haſte, haſte, out of her all ye that be in her, Oh! delay not the time, but flee for your lives. <hi>Come out, come out of her my people,</hi> ſaith the Lord, <hi>for if ye be partakers with her of her ſins, ye muſt partake with her of her plagues:</hi> Therefore be all warned, O ye the Inhabitants of the Earth; <hi>For the Lord hath roared out of Zi<g ref="char:EOLhyphen"/>on, he hath uttered his terrible voice, out of his holy Mountain; yea he is riſen to plead with all fleſh, with fire and with ſword, for his own Seeds ſake: Yea he will rain from heaven, ſhowers of hail mingled with fire.</hi> O Earth, with all thy Inhabitants, fear, dread, and tremble, for the Lord is coming to judgement; yea the time is at hand, that <hi>the ſecrets of all hearts muſt be judged by Jeſus Chriſt,</hi> the Lamb of God and Light of the world. The <hi>Juſt ſhall ariſe unto the Reſurrection of Life; but the Unjuſt, to the Reſurrection of Condemnation.</hi> And this ſhall be the Sentence, <hi>Come ye bleſſed of
+<pb n="8" facs="tcp:105787:5"/>my Father, inherit the Kingdom prepared for you:</hi> Or, <hi>Go ye curſed, into everlaſting burnings; prepared for the Devil and his Angels. For the wicked muſt go into hell, with all that forget God.</hi>
+            </p>
+            <closer>
+               <dateline>Written in the dread of God's power, <date>the firſt day of the 11th. Month, 1662.</date> by one who in the even<g ref="char:EOLhyphen"/>ing before, ſaw fire rain from Heaven, as he walked in the ſtreet; by which God ſignified theſe things unto him, which muſt ſhortly come to paſs. Whoſe Name is called,</dateline> 
+               <signed>Robert Falkner.</signed>
+            </closer>
+         </div>
+         <epigraph>
+            <q>
+               <lg>
+                  <l>O <hi>Cain,</hi> O <hi>Cain,</hi> thou down into the pit muſt go,</l>
+                  <l>Of horror and vexation, of miſery and wo.</l>
+                  <l>Becauſe th'aſt ſought to ſlay the Seed, in which God doth delight;</l>
+                  <l>T'expect a Sacrifice indeed, being offered in the Light.</l>
+                  <l>Thou art that <hi>Cananite,</hi> where-ever thou doſt dwell,</l>
+                  <l>Which doſt deſpiſe the Light; thou muſt go into hell.</l>
+                  <l>For Chriſt, who is the Light, is given for Salvation;</l>
+                  <l>'Gainſt ſuch as him deſpight, he is their Condemnation.</l>
+                  <l>O <hi>Gog</hi> with all thine hoſt, th'art but a running briar;</l>
+                  <l>Though up and down thou poſt, thou'lt ſoon conſume i'th' fire.</l>
+                  <l>When God doth once ariſe, to burn up briars and thorns;</l>
+                  <l>And to conſume the Beaſt, with all his puſhing horns:</l>
+                  <l>And <hi>Babylon</hi> the Whore her fleſh, muſt burned be with fire;</l>
+                  <l>Who hath oppreſt the poor, by forcing unjuſt hire.</l>
+                  <l>Though ſhe as Queen did ſit, ſaid, ſhe ſhould ſee no ſorrow;</l>
+                  <l>Yet now ſhe muſt into the pit, of miſery, wo and horror.</l>
+                  <l>Therefore ye ſaints of the moſt high, aloud high praiſes ſing;</l>
+                  <l>Unto the Lord of Life, who is your onely King.</l>
+                  <l>Whoſe Throne in Righteouſneſs, eſtabliſhed ſhall be;</l>
+                  <l>Ah, bleſſed thou for ever art, that doſt him feel and ſee.</l>
+               </lg>
+               <lg>
+                  <l>For, with high renown, his own he'l crown,</l>
+                  <l>the Enemy ſhall be brought down:</l>
+                  <l>And thou ſhall have reſt, and no more be oppreſt;</l>
+                  <l>this is thy portion, whom God hath bleſt.</l>
+               </lg>
+            </q>
+         </epigraph>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
